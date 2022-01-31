@@ -19,3 +19,12 @@ dados("Bia",18,"acústico");*/
   console.log(`Um dos meus filmes favoritos é ${filme} enquanto uma das minhas músicas favoritas é ${musica}`);
 }
 arte("Soul","Happiest Year");*/
+
+//Bonus 5- crie uma função que retorne o triplo do número recebido no parâmetro
+
+/*function triplo(a) {
+  return a*3;
+}
+let conta = triplo(4)
+console.log(`Seu triplo é ${conta}`);
+*/
